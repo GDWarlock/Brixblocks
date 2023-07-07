@@ -1,0 +1,24 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/Unreal/Games/Brix/Brix/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"E:/Unreal/Games/Brix/Brix/Content/Maps/Level_1.umap",
+				"E:/Unreal/Games/Brix/Brix/Content/Blueprints/BallGameMode.uasset",
+				"E:/Unreal/Games/Brix/Brix/Content/Blueprints/Paddle.uasset",
+				"E:/Unreal/Games/Brix/Brix/Content/Blueprints/Ball.uasset",
+				"E:/Unreal/Games/Brix/Brix/Content/Blueprints/Brick.uasset",
+				"E:/Unreal/Games/Brix/Brix/Content/Blueprints/BallHitInterface.uasset",
+				"E:/Unreal/Games/Brix/Brix/Content/HUD/BrickNumber.uasset",
+				"E:/Unreal/Games/Brix/Brix/Content/HUD/BallLivesWidget.uasset",
+				"E:/Unreal/Games/Brix/Brix/Content/Blueprints/BallHud.uasset",
+				"E:/Unreal/Games/Brix/Brix/Content/Blueprints/Bounds.uasset",
+				"E:/Unreal/Games/Brix/Brix/Content/Images/BallTransBG.uasset",
+				"E:/Unreal/Games/Brix/Brix/Content/Images/BallTransBG1_Faded.uasset"
+			]
+		}
+	]
+}
